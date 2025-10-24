@@ -4,7 +4,7 @@ description: "Machine Learning Engineer | AI Systems Developer | Data Scientist"
 url: "https://hkl19.github.io"
 github_username: hkl19
 
-theme: "minimal-mistakes-jekyll"
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
